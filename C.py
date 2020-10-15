@@ -1,3 +1,2 @@
-def Function_D():
-    print("D")
-
+def function_C():
+  print("C")
