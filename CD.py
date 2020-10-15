@@ -5,7 +5,7 @@ from C import* # Member C (Dominique Giguere Samson)
 
 def function_CD():
     print ("CD")
-    function_D()
-    funciton_C()
+    Function_D()
+    function_C()
 
     
